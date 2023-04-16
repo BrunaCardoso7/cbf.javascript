@@ -9,6 +9,10 @@ switch (colocacao){
     case 3:
         console.log("terceiro lugar")
         break
+    case 4: case 5: case 6:
+        console.log('mensão honrrosa')
+        break
     default:
         console.log("nenhuma informação foi subida")
+        break
 }
