@@ -1,7 +1,7 @@
-function soma() {
-    let x = 3
-    let y = 2
+function soma(x, y) {
     let s = x + y
     console.log(s)
 }
+let x = 3
+let y = 4
 soma()
